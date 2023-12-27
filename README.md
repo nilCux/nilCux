@@ -1,5 +1,5 @@
-# Chenglin XU 👨‍💻
-**Software Engineer | **Email:** chenglin[dot]theo[dot]xu[at]gmail[dot]com | [LinkedIn](LinkedIn-link)
+# READ to know ME 👨‍💻
+**Software Engineer** | **Email:** chenglin[dot]theo[dot]xu[at]gmail[dot]com | [LinkedIn](LinkedIn-link)
 
 ## Profile 🌟
 Holder of a master's degree in "Software Science and Engineering" from the University of Strasbourg, with a solid mathematical background. Contributed as a software engineer in a prominent research laboratory and worked with a leading IT consulting company. Actively seeking challenging opportunities to apply technical expertise and interpersonal skills.
